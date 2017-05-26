@@ -1,0 +1,9 @@
+.title {
+    text-align: center;
+    height: 5rem;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
